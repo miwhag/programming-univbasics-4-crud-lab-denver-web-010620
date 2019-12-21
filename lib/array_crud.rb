@@ -54,15 +54,14 @@ end
 def retrieve_element_from_index(array, index_number)
     return array[index_number]
 end
+retrieve_element_from_index(["mike","Miwha", "Rachael", "YS"],0)
 
-retrieve_element_from_index(["mike","Miwha", "Rachael", "YS"], 0)
-
-
+# getting an element from the index 0
 
 
 
 def retrieve_first_element_from_array(array)
-  
+  return array.first
 end
 
 def retrieve_last_element_from_array(array)
