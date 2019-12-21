@@ -76,9 +76,12 @@ retrieve_last_element_from_array(["cat", "dog", "rabbit"])
 
 def update_element_from_index(array, index_number, element)
 
-new element = array[index_number]  
+ array(index_number)  
 new element = element
 return element  
 end
 
 update_element_from_index(["cat", "dog", "rabbit"], 2, "harry pig")
+
+
+array[array.index(4)] = "Z"
