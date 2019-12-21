@@ -52,7 +52,7 @@ end
  
 
 def retrieve_element_from_index(array, index_number)
-    return array.([index_number])
+    return array.
 end
 
 retrieve_element_from_index(["mike","Miwha", "Rachael", "YS"], [1])
