@@ -79,6 +79,6 @@ array(index_number) = element
 
 end
 
-update_element_from_index(["cat", "dog", "rabbit"], 2, "harry pig")
+update_element_from_index(["cat", "dog", "rabbit"], 2, "harry pig"))
 
 
