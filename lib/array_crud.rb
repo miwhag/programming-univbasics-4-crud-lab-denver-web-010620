@@ -70,7 +70,7 @@ retrieve_first_element_from_array(["cat", "dog", "rabbit"])
 def retrieve_last_element_from_array(array)
   return array[-1]
 end
-
+retrieve_last_element_from_array(["cat", "dog", "rabbit"])
 
 
 def update_element_from_index(array, index_number, element)
