@@ -80,6 +80,6 @@ return array
 
 end
 
-update_element_from_index(["cat", "dog", "rabbit"], 2, "harry pig"))
+update_element_from_index(["cat", "dog", "rabbit"], 2, "harry pig")
 
 
