@@ -78,6 +78,8 @@ def update_element_from_index(array, index_number, element)
 array[index_number] = element
 return array
 
+end
+
 update_element_from_index(["cat", "dog", "rabbit"], 1, "harry pig")
 
 
