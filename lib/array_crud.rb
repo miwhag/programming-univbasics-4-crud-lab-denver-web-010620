@@ -51,8 +51,8 @@ end
  
  
 
-def retrieve_element_from_index(array, index_number)
-    return array ([index_number])
+def retrieve_element_from_index(list, index_number)
+    return list ([index_number])
 end
 
 retrieve_element_from_index(["mike","Miwha", "Rachael", "YS"], [1])
