@@ -61,7 +61,7 @@ retrieve_element_from_index(["mike","Miwha", "Rachael", "YS"],0)
 
 
 def retrieve_first_element_from_array(array)
-  return array.first
+  return array[0]
 end
 retrieve_first_element_from_array(["cat", "dog", "rabbit"])
 
