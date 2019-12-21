@@ -68,8 +68,10 @@ retrieve_first_element_from_array(["cat", "dog", "rabbit"])
 # returned the first element using the index number 
 
 def retrieve_last_element_from_array(array)
-  return array.last
+  return array[-1]
 end
+
+
 
 def update_element_from_index(array, index_number, element)
 
