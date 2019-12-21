@@ -81,4 +81,4 @@ new element = element
 return element  
 end
 
-update_element_from_index()
+update_element_from_index(["cat", "dog", "rabbit"], 2, "harry pig")
