@@ -75,7 +75,8 @@ retrieve_last_element_from_array(["cat", "dog", "rabbit"])
 #  retrieved the last emement using -1 
 
 def update_element_from_index(array, index_number, element)
-return array[index_number] = element
+array[index_number] = element
+return array
 
 update_element_from_index(["cat", "dog", "rabbit"], 1, "harry pig")
 
